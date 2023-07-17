@@ -22,5 +22,6 @@ Unix Command level
 ![Screenshot (296)](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/7f741bae-d563-41b9-866d-7a8ed8779e39)
 ![Screenshot (297)](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/f9357b49-264c-4e48-944f-cacd374dd63b)
 ![Screenshot (298)](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/33a6055e-d096-4b55-8eca-d46558c06163)
+![Screenshot (299)](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/d4f7864c-0b67-4605-9075-6e8dc990941b)
 
 ![WhatsApp Image 2023-07-13 at 6 37 45 PM](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/9cfd6db4-f396-4aba-8007-20de50b8b8b7)
