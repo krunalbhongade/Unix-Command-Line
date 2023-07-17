@@ -2,6 +2,8 @@
 Unix Command level
 186.Install Gitbash on windows
 ![WhatsApp Image 2023-07-13 at 6 36 21 PM (1)](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/b5f174ad-c61d-4845-b236-b53d8783c631)
+![Screenshot (290)](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/4408319f-a99b-4957-b418-d4e5a1f6010e)
+
 187.Understanding the command line
 ![WhatsApp Image 2023-07-13 at 6 36 21 PM](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/0c04fd86-8887-4935-bf46-45e2c67689a6)
 ![WhatsApp Image 2023-07-13 at 6 36 20 PM (1)](https://github.com/krunalbhongade/Unix-Command-Line/assets/126875304/f82e730a-73dc-4de3-8613-fb8af26df57f)
